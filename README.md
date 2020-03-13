@@ -1,6 +1,6 @@
-# Project Name
+# Product App
 
-> One paragraph statement about the project.
+> A Product Page in Vue
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,8 +8,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
+- HTML, CSS, JS
+- Vue
 - technologies used
 
 ## Live Demo
